@@ -1,9 +1,15 @@
 # Datt Goswami
 
-- **Ferrum** — agent tooling, memory, evals, MCP, tracing, and platform infrastructure
-Technical Docs: [Ferrum Stack](https://drive.google.com/file/d/15N13R1c0gWQDTTNzfVQruilHJWlRwneQ/view?usp=sharing) · [Ferrum Platform Poster](https://drive.google.com/file/d/1yD4BJmNPHm3lDecZRchCPDTh9vz-uBc9/view?usp=sharing)
-- [`ferrum-memory`](https://github.com/dattgoswami/ferrum-memory) - agent memory, hybrid retrieval, and prioritized replay; [`ferrum-evals`](https://github.com/dattgoswami/ferrum-evals) - correctness, safety, trajectory, and continual-learning evals; [`ferrum-agent`](https://github.com/dattgoswami/ferrum-agent) - planning, execution, review, memory, and human approval; [`taste-memory`](https://github.com/dattgoswami/taste-memory) - preference and episodic memory for personalized agents.
-- [`ferrum-core`](https://github.com/dattgoswami/ferrum-core) - shared Rust foundation for Ferrum services, with unified errors, structured logging, and OTLP tracing without framework lock-in.
+### Ferrum
+
+Agent infrastructure for memory, evals, MCP tools, tracing, orchestration, and LLMOps.
+Docs: [Ferrum Stack](https://drive.google.com/file/d/15N13R1c0gWQDTTNzfVQruilHJWlRwneQ/view?usp=sharing) · [Poster](https://drive.google.com/file/d/1yD4BJmNPHm3lDecZRchCPDTh9vz-uBc9/view?usp=sharing)
+
+- [`ferrum-agent`](https://github.com/dattgoswami/ferrum-agent) - multi-agent runtime for planning, execution, review, memory, and human approval.
+- [`ferrum-memory`](https://github.com/dattgoswami/ferrum-memory) - agent memory with hybrid retrieval and prioritized replay.
+- [`ferrum-evals`](https://github.com/dattgoswami/ferrum-evals) - eval harness for correctness, safety, trajectory quality, and continual-learning progress.
+- [`taste-memory`](https://github.com/dattgoswami/taste-memory) - preference and episodic memory service for personalized agents.
+- [`ferrum-core`](https://github.com/dattgoswami/ferrum-core) - shared Rust foundation for errors, structured logging, and OTLP tracing without framework lock-in.
 
 ## Writing
 
