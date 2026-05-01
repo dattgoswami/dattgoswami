@@ -16,9 +16,3 @@ Agent infrastructure for memory, evals, MCP tools, tracing, orchestration, infer
 - [Book(Aug 2023):- Mastering Prompt Engineering](https://github.com/dattgoswami/agentic-ai-and-llm-systems/blob/main/1_MasteringPromptEngineering_draft_WIP.md)
 - [cl-agent: A Continual-Learning Substrate for Coding Agents](https://github.com/dattgoswami/cl-agent/blob/main/paper/cl_agent_paper_pub.pdf)
 
-## Connect
-
-- [LinkedIn](https://www.linkedin.com/in/dattgoswami)
-- [Substack](https://datt.substack.com)
-- [Medium](https://medium.com/@dattgoswami)
-
