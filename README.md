@@ -18,7 +18,14 @@ Docs: [Ferrum Stack](https://drive.google.com/file/d/15N13R1c0gWQDTTNzfVQruilHJW
 - [Context Engineering: The Real Work Behind Production AI Systems](https://datt.substack.com/p/context-engineering-the-real-work)
 - [Building AI That Actually Ships: Field Guide](https://open.substack.com/pub/datt/p/building-ai-that-actually-ships-an)
 - [The Agent Framework Wars Are Already Over](https://datt.substack.com/p/the-agent-framework-wars-are-already)
-- [NASA's Lessons from 60y of Software Engineering- When Code Must Not Fail: Engineering for Mission-Critical Systems](https://datt.substack.com/p/when-code-must-not-fail-engineering)
+- [NASA's Lessons from 60y of Software Engineering:- When Code Must Not Fail: Engineering for Mission-Critical Systems](https://datt.substack.com/p/when-code-must-not-fail-engineering)
+
+## Publications
+
+- [Low-Level Wind Climatology Related to Potential Wind Compression](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_pqlWmwAAAAJ&citation_for_view=_pqlWmwAAAAJ:9yKSN-GCB0IC) | [Link](https://ui.adsabs.harvard.edu/abs/2017AMS....9708958R/abstract)
+- [Book(Aug 2023):- Mastering Prompt Engineering](https://github.com/dattgoswami/agentic-ai-and-llm-systems/blob/main/1_MasteringPromptEngineering_draft_WIP.md)
+- [cl-agent: A Continual-Learning Substrate for Coding Agents](https://github.com/dattgoswami/cl-agent/blob/main/paper/cl_agent_paper_pub.pdf)
+
 
 ## Connect
 
