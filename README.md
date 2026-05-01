@@ -5,20 +5,11 @@
 Agent infrastructure for memory, evals, MCP tools, tracing, orchestration, and LLMOps.
 Docs: [Ferrum Stack](https://drive.google.com/file/d/15N13R1c0gWQDTTNzfVQruilHJWlRwneQ/view?usp=sharing) · [Poster](https://drive.google.com/file/d/1yD4BJmNPHm3lDecZRchCPDTh9vz-uBc9/view?usp=sharing)
 
-- [`ferrum-agent`](https://github.com/dattgoswami/ferrum-agent) - multi-agent runtime for planning, execution, review, memory, and human approval.
-- [`ferrum-memory`](https://github.com/dattgoswami/ferrum-memory) - agent memory with hybrid retrieval and prioritized replay.
-- [`ferrum-evals`](https://github.com/dattgoswami/ferrum-evals) - eval harness for correctness, safety, trajectory quality, and continual-learning progress.
-- [`taste-memory`](https://github.com/dattgoswami/taste-memory) - human preference and episodic memory service for personalized agents.
-- [`ferrum-core`](https://github.com/dattgoswami/ferrum-core) - shared Rust foundation for errors, structured logging, and OTLP tracing without framework lock-in.
+- [`Ferrum Platfrom`](https://github.com/dattgoswami/ferrum-stack) a concise architecture map linking the Ferrum platform’s agent, memory, evaluation, inference, tooling, and shared-core repositories.
 
 ## Writing
 
-- [Program Synthesis Is the Dark Horse That Might Get To World Models First](https://open.substack.com/pub/datt/p/while-we-wait-for-continual-learning)
-- [Continual Intelligence](https://github.com/dattgoswami/Continual-Intelligence)
-- [Context Engineering: The Real Work Behind Production AI Systems](https://datt.substack.com/p/context-engineering-the-real-work)
-- [Building AI That Actually Ships: Field Guide](https://open.substack.com/pub/datt/p/building-ai-that-actually-ships-an)
-- [The Agent Framework Wars Are Already Over](https://datt.substack.com/p/the-agent-framework-wars-are-already)
-- [NASA's Lessons from 60y of Software Engineering:- When Code Must Not Fail: Engineering for Mission-Critical Systems](https://datt.substack.com/p/when-code-must-not-fail-engineering)
+- [Agentic AI & LLM Systems](https://github.com/dattgoswami/agentic-ai-and-llm-systems) technical writing archive covering coding agents, continual learning, LLM systems, prompt engineering.
 
 ## Publications
 
@@ -26,10 +17,9 @@ Docs: [Ferrum Stack](https://drive.google.com/file/d/15N13R1c0gWQDTTNzfVQruilHJW
 - [Book(Aug 2023):- Mastering Prompt Engineering](https://github.com/dattgoswami/agentic-ai-and-llm-systems/blob/main/1_MasteringPromptEngineering_draft_WIP.md)
 - [cl-agent: A Continual-Learning Substrate for Coding Agents](https://github.com/dattgoswami/cl-agent/blob/main/paper/cl_agent_paper_pub.pdf)
 
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/dattgoswami)
 - [Substack](https://datt.substack.com)
 - [Medium](https://medium.com/@dattgoswami)
-- [X](https://x.com/dattgoswami)
+
