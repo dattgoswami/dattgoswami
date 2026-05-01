@@ -2,14 +2,13 @@
 
 ### Ferrum
 
-Agent infrastructure for memory, evals, MCP tools, tracing, orchestration, and LLMOps.
-Docs: [Ferrum Stack](https://drive.google.com/file/d/15N13R1c0gWQDTTNzfVQruilHJWlRwneQ/view?usp=sharing) · [Poster](https://drive.google.com/file/d/1yD4BJmNPHm3lDecZRchCPDTh9vz-uBc9/view?usp=sharing)
-
-- [`Ferrum Platfrom`](https://github.com/dattgoswami/ferrum-stack) a concise architecture map linking the Ferrum platform’s agent, memory, evaluation, inference, tooling, and shared-core repositories.
+Ferrum Stack is agent infrastructure for memory, evals, MCP tools, tracing, orchestration, inference, and LLMOps across the Ferrum platform repositories.
+- Docs: [Ferrum Stack](https://drive.google.com/file/d/15N13R1c0gWQDTTNzfVQruilHJWlRwneQ/view?usp=sharing) · [Poster](https://drive.google.com/file/d/1yD4BJmNPHm3lDecZRchCPDTh9vz-uBc9/view?usp=sharing)
+- [`Ferrum Platform Architecture Diagram & Repositories`](https://github.com/dattgoswami/ferrum-stack)
 
 ## Writing
 
-- [Agentic AI & LLM Systems](https://github.com/dattgoswami/agentic-ai-and-llm-systems) technical writing archive covering coding agents, continual learning, LLM systems, prompt engineering.
+- [Agentic AI & LLM Systems](https://github.com/dattgoswami/agentic-ai-and-llm-systems) technical writing covering coding agents, continual learning, LLM systems.
 
 ## Publications
 
